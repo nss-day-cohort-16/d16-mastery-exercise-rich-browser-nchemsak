@@ -1,0 +1,7 @@
+.DS_Store
+lib/node_modules
+lib/.sass-cache
+javascripts/fb-getter.js
+css/styles.css.map
+css/main.css.map
+
